@@ -2,7 +2,9 @@
 
 # PANDA: PET nAvigators usiNg Deep leArning
 
-PANDA pipeline, is a computational toolbox (MATLAB + python) for generating PET navigators using Generative Adversarial networks. This repository is a clone folder of our work from the QIMP group in Medical Univerisity of Vienna. The GitHub repository of the group: https://github.com/LalithShiyam/QIMP-tools
+PANDA pipeline, is a computational toolbox (MATLAB + python) for generating PET navigators using Generative Adversarial networks. This repository is a clone folder of our work from the QIMP group in Medical Univerisity of Vienna. The GitHub repository of the group: https://github.com/LalithShiyam/QIMP-tools. 
+
+The Pytorch version was added in the QIMP-tools page and also here: https://github.com/davidiommi/Panda-Pytorch
 
 # Workflow
 
